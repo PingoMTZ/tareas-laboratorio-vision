@@ -1,0 +1,7 @@
+memorial00.png 0.03125
+memorial02.png 0.125
+memorial04.png 0.5
+memorial06.png 2
+memorial08.png 8
+memorial10.png 32
+memorial12.png 128
